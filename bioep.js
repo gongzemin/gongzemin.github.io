@@ -5,7 +5,7 @@ window.bioEp = {
 	closeBtnEl: {},
 	shown: false,
 	overflowDefault: "visible",
-	transformDefault: "",
+	//transformDefault: "",
 	
 	// Popup options
 	width: 400,
